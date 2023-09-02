@@ -1,0 +1,27 @@
+@media (min-width: 320px) and (max-width: 575px) { 
+
+    .headline-part .my-to-do {
+        font-size: 35px;
+    }
+    .headline-part .subject {
+        padding: 16px 30px 16px 20px;
+        font-size: 18px;
+        margin-top: 30px;
+    }
+    .headline-part .add-btn {
+        font-size: 16px;
+        border-radius: 10px 10px;
+        padding: 12px 24px;
+        margin-left: 50px;
+    }
+    .headline-part .reset-btn {
+        font-size: 16px;
+        border-radius: 10px 10px;
+        padding: 12px 24px;
+    }
+    li{
+        font-size: 16px;
+    }
+
+
+ }
